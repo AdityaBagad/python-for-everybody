@@ -6,5 +6,6 @@ Solutions for the exercises in the book, **Python For Everybody Exploring Data U
 2. [Download the Book](https://www.py4e.com/book)
 
 ## Contents
-1. [Why should you learn to write programs?](https://github.com/AdityaBagad/python-for-everybody/tree/master/1-Chapter) 
+1. [Why should you learn to write programs?](https://github.com/AdityaBagad/python-for-everybody/tree/master/1-Chapter)
+2. [Variables, expressions and statements](https://github.com/AdityaBagad/python-for-everybody/tree/master/2-Chapter)
 
