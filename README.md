@@ -9,5 +9,6 @@ Solutions to the exercises for the book, **Python For Everybody: Exploring Data 
 1. [Why should you learn to write programs?](https://github.com/AdityaBagad/python-for-everybody/tree/master/1-Chapter)
 2. [Variables, expressions and statements](https://github.com/AdityaBagad/python-for-everybody/tree/master/2-Chapter)
 3. [Conditional execution](https://github.com/AdityaBagad/python-for-everybody/tree/master/3-Chapter)
+4. [Functions](https://github.com/AdityaBagad/python-for-everybody/tree/master/4-Chapter)
 
 
