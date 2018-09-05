@@ -11,5 +11,6 @@ Solutions to the exercises for the book, **Python For Everybody: Exploring Data 
 3. [Conditional execution](https://github.com/AdityaBagad/python-for-everybody/tree/master/3-Chapter)
 4. [Functions](https://github.com/AdityaBagad/python-for-everybody/tree/master/4-Chapter)
 5. [Iteration](https://github.com/AdityaBagad/python-for-everybody/tree/master/5_Chapter)
-
+6. [Strings](https://github.com/AdityaBagad/python-for-everybody/tree/master/6-Chapter)
+7. [Files](https://github.com/AdityaBagad/python-for-everybody/tree/master/7-Chapter)
 
