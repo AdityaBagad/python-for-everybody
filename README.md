@@ -13,4 +13,5 @@ Solutions to the exercises for the book, **Python For Everybody: Exploring Data 
 5. [Iteration](https://github.com/AdityaBagad/python-for-everybody/tree/master/5_Chapter)
 6. [Strings](https://github.com/AdityaBagad/python-for-everybody/tree/master/6-Chapter)
 7. [Files](https://github.com/AdityaBagad/python-for-everybody/tree/master/7-Chapter)
+8. [Lists](https://github.com/AdityaBagad/python-for-everybody/tree/master/8-Chapter)
 
