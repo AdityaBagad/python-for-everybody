@@ -15,4 +15,5 @@ Solutions to the exercises for the book, **Python For Everybody: Exploring Data 
 7. [Files](https://github.com/AdityaBagad/python-for-everybody/tree/master/7-Chapter)
 8. [Lists](https://github.com/AdityaBagad/python-for-everybody/tree/master/8-Chapter)
 9. [Dictionary](https://github.com/AdityaBagad/python-for-everybody/tree/master/9-Chapter)
+10. [Tuples](https://github.com/AdityaBagad/python-for-everybody/tree/master/10-Chapter)
 
